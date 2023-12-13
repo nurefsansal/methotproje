@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CumleGirisiUygulamasi/1.0.0": {
+        "runtime": {
+          "CumleGirisiUygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CumleGirisiUygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

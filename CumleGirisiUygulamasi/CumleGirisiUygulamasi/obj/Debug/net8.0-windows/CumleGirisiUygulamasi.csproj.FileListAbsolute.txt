@@ -1,0 +1,16 @@
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\bin\Debug\net8.0-windows\CumleGirisiUygulamasi.exe
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\bin\Debug\net8.0-windows\CumleGirisiUygulamasi.deps.json
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\bin\Debug\net8.0-windows\CumleGirisiUygulamasi.runtimeconfig.json
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\bin\Debug\net8.0-windows\CumleGirisiUygulamasi.dll
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\bin\Debug\net8.0-windows\CumleGirisiUygulamasi.pdb
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.Form1.resources
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.csproj.GenerateResource.cache
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.AssemblyInfoInputs.cache
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.AssemblyInfo.cs
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.dll
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\refint\CumleGirisiUygulamasi.dll
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.pdb
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\CumleGirisiUygulamasi.genruntimeconfig.cache
+C:\Users\ubor61758\Desktop\denemeproje\CumleGirisiUygulamasi\CumleGirisiUygulamasi\obj\Debug\net8.0-windows\ref\CumleGirisiUygulamasi.dll
